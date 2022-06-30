@@ -1,5 +1,6 @@
 {
     "name": "ignore-x-frame-options",
+    "description": "ignore x-frame-options",
     "version": "1",
     "manifest_version": 3,
 
