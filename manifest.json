@@ -1,0 +1,20 @@
+{
+    "name": "ignore-x-frame-options",
+    "version": "1",
+    "manifest_version": 3,
+
+    "icons": {
+        "16": "icon.png"
+    },
+
+    "background": {
+        "service_worker": "background.js"
+    },
+
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "permissions": [
+        "declarativeNetRequest"
+    ]
+}
