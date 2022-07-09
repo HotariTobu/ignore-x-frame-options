@@ -1,5 +1,7 @@
 # ignore-x-frame-options
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/ignore-x-frame-options/ammjifkhlacaphegobaekhnapdjmeclo)
+
 ignore-x-frame-options is a chrome extension that drops x-frame-options and content-security-policy in HTTP request headers and enables pages to include external pages in iframes.
 
 Almost pages set x-frame-options to SAMEORIGINE or DENY.
